@@ -1,6 +1,6 @@
 # Next.js Smart Contract Lottery
 
-This repository contains the frontend code for a smart contract-based lottery system built using Next.js and Ethereum. It is intended to be used in conjunction with the backend smart contracts, which can be found in the [hardhat-lottery-system](https://github.com/your-username/hardhat-lottery-system) repository.
+This repository contains the frontend code for a smart contract-based lottery system built using Next.js and Ethereum. It is intended to be used in conjunction with the backend smart contracts, which can be found in the [hardhat-lottery-system](https://github.com/thevkscode/hardhat-lottery-system) repository.
 
 ## Overview
 
