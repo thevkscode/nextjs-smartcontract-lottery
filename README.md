@@ -6,6 +6,8 @@ This repository contains the frontend code for a smart contract-based lottery sy
 
 The Next.js Smart Contract Lottery provides a user-friendly interface for participating in the lottery and viewing the current status of the lottery. Users can connect their Ethereum wallet (such as MetaMask) to the application and purchase tickets for the current lottery round. The application displays information about the current lottery round, including the number of tickets sold and the current prize pool.
 
+The application is currently hosted on Fleek using IPFS and can be accessed at https://silent-haze-6467.on.fleek.co/.
+
 ## Installation
 
 To install and run the application locally, follow these steps:
